@@ -62,13 +62,3 @@ Konsola gelip aşağıdaki komutu yazıp enter tuşuna basıyoruz:
 ![image](https://github.com/ugurcomptech/Linux-ForgotPassword-Reset/assets/133202238/82f76262-d89d-4279-af52-69adc590bb0c)
 
 Başarılı bir şekilde şifre sıfırlama işlemini gerçekleştirdik.
-
-
-
-
-
-
-
-
-
-a
